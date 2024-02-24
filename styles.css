@@ -1,0 +1,43 @@
+body {
+    background-color:coral;
+}
+
+
+.heading {
+    font-size: 60px;
+    font-family: 'Castoro Titling', Bookman, URW Bookman L, serif;
+    text-align: center;
+}
+
+.number, input {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    font-size: 30px;
+}
+
+button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+#output {
+    text-align: center;
+    font-size: 60px;
+}
+
+.picture, img {
+    width:400px;
+    height:600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
